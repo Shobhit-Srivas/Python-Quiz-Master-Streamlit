@@ -64,7 +64,7 @@ python-quiz-master-streamlit/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/python-quiz-master-streamlit.git
+git clone https://github.com/Shobhit-Srivas/Python-Quiz-Master-Streamlit.git
 ```
 
 Move into project folder:
